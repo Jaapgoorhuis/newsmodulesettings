@@ -1,5 +1,5 @@
 {
-    "name": "Jaapgoorhuis/l4-newsmodulesettings",
+    "name": "jaapgoorhuis/l4-newsmodulesettings",
     "description": "Persistant newsmodulesettings in Laravel.",
     "license": "MIT",
     "authors": [

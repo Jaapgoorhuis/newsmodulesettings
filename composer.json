@@ -1,6 +1,6 @@
 {
-    "name": "Jaapgoorhuis/l4-metatags",
-    "description": "Persistant metatags in Laravel.",
+    "name": "Jaapgoorhuis/l4-newsmodulesettings",
+    "description": "Persistant newsmodulesettings in Laravel.",
     "license": "MIT",
     "authors": [
         {
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jaapgoorhuis\\LaravelMetatags\\": "src/"
+            "jaapgoorhuis\\LaravelNewsmodulesettings\\": "src/"
         }
     },
     "minimum-stability": "dev",
